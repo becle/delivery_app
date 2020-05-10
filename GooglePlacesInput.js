@@ -68,7 +68,7 @@ const GooglePlacesInput = (props) => {
 
         query={{
           // available options: https://developers.google.com/places/web-service/autocomplete
-          key: 'AIzaSyBQVmgork1Sw44Fn4ir4KVgsLBveaOXNoA',
+          key: '********************',
           language: 'en', // language of the results
         }}
 
